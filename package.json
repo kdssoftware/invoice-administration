@@ -4,7 +4,7 @@
   "description": "this program is used for managing and administrating invoices and generating them into .pdf format",
   "main": "src/app.js",
   "dependencies": {
-    "apidoc": "^0.27.0",
+    "apidoc": "^0.55.0",
     "assert": "^2.0.0",
     "async": "^3.1.1",
     "atob": "^2.1.2",
