@@ -95,7 +95,7 @@
     "tablesorter": "^2.31.2",
     "toobusy-js": "^0.5.1",
     "url": "^0.11.0",
-    "validate-vat": "^0.7.0",
+    "validate-vat": "^0.9.0",
     "verbose": "^0.2.3",
     "view-helpers": "^0.2.0",
     "winston": "^3.2.1",
